@@ -10,6 +10,6 @@ Greetings. This repository was cloned from https://github.com/techwithtim/Python
 - In VS Code open a workspace with the cloned repository
 - Open a terminal and input the following:
 -   python3 -m venv ai
--   source ai/bin/activate
+-   source source ai/bin/activate
 -   pip3 install pandas llama-index python-dotenv pypdf
 - Run the main python script (python main.py)
